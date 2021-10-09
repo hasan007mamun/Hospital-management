@@ -1,0 +1,12 @@
+1  Dr kashem Uddin.  MBBS(CMC),MD(Internal_Medicine)Phase-1  112
+2  Dr Touhidur Rahman.  MBBS(DMC),PGT(Medicine)  114
+3  Dr khalid bin Sddique.  MBBS(RMC), PGT(Medicine)  113
+4  Dr Farhad Akhter.  MBBS(RpMC), PGT(Medicine)  201
+5  Dr Golam Kibria.  MBBS(DMC),FCPS(Medicine)Part-2 304
+6  Dr Rashed Shikdar.  MBBS(DU), Genaral Practitioner  505
+7  Dr Farida Sultana.  MBBS(BMC),FCPS(gynaecology)Final part  431
+8  Dr Nahida Akhter.  MBBS(DU)  432
+9  Dr Nasrin Beguam.  MBBS(DU)PGT(Physcical Medicine)  305
+10  Dr Maliha Rahman.  MBBS(RU)  202
+11  Dr Jannatul Ferdous.  MBBS(CMC)  506
+12  Dr Novia khan.  MBBS(DMC),MS(Gynaecology) Phase-2  203

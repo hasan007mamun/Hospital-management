@@ -1,0 +1,13 @@
+111  Dr kashem Uddin.  MBBS(CMC),MD(Internal_Medicine)Phase-1  112  01755258099  Monday  01755258099
+112  Dr Touhidur Rahman.  MBBS(DMC),PGT(Medicine)  114  01755258099  Sunday  01755258099
+113  Dr khalid bin Sddique.  MBBS(RMC), PGT(Medicine)  113  01755258099  Tuesday  01755258099
+114  Dr Farhad Akhter.  MBBS(RpMC), PGT(Medicine)  201  01755258099  Thursday  01755258099
+115  Dr Golam Kibria.  MBBS(DMC),FCPS(Medicine)Part-2  304  01755258099  Friday  01755258099
+116  Dr Rashed Shikdar.  MBBS(DU), Genaral Practitioner  505  01755258099  Saturday  01755258099
+117  Dr Farida Sultana.  MBBS(BMC),FCPS(gynaecology)Final part  431  01755258099  Wednesday  01755258099
+118  Dr Nahida Akhter.  MBBS(DU)  432  01755258099  Monday  01755258099
+119  Dr Nasrin Beguam.  MBBS(DU)PGT(Physcical Medicine)  305  01755258099  Friday  01755258099
+120  Dr Maliha Rahman.  MBBS(RU)  202  01755258099  Friday  01755258099
+121  Dr Jannatul Ferdous.  MBBS(CMC)  506  01755258099 Sunday  01755258099
+122  Dr Novia khan.  MBBS(DMC),MS(Gynaecology) Phase-2  203  01755258099 Monday  01755258099
+
